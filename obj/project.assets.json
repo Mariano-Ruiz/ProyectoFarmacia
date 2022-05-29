@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\maria\\.nuget\\packages\\": {}
+    "/home/cristina/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\Projecto Farmacia.csproj",
+      "projectUniqueName": "/home/cristina/Escritorio/ProyectoFarmacia/Projecto Farmacia.csproj",
       "projectName": "Projecto Farmacia",
-      "projectPath": "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\Projecto Farmacia.csproj",
-      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\obj\\",
+      "projectPath": "/home/cristina/Escritorio/ProyectoFarmacia/Projecto Farmacia.csproj",
+      "packagesPath": "/home/cristina/.nuget/packages/",
+      "outputPath": "/home/cristina/Escritorio/ProyectoFarmacia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/cristina/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -53,12 +53,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.2, 6.0.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

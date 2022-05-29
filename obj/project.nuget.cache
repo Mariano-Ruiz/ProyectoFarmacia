@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sLqXkCbfkeXI59pvqX5+NorNDA7lUHplPE3GeEZQ8sAqxmRsnPvlv+tmiV9hXfP/kqOg+8YvvpsBe5+mGSktFw==",
+  "dgSpecHash": "fR2nlviKUxtLsI5NJKhnw1t70GvXSysil4blG3g+jXB4O9k6xOI9T2emy3s8OHfS36k2wArLG27fwp64C7s2XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\Projecto Farmacia.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/cristina/Escritorio/ProyectoFarmacia/Projecto Farmacia.csproj",
+  "expectedPackageFiles": [
+    "/home/cristina/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

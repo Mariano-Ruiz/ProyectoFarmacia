@@ -1,30 +1,45 @@
-C:\Users\maria\Desktop\Projecto Farmacia\bin\Debug\net6.0\Projecto Farmacia.exe
-C:\Users\maria\Desktop\Projecto Farmacia\bin\Debug\net6.0\Projecto Farmacia.deps.json
-C:\Users\maria\Desktop\Projecto Farmacia\bin\Debug\net6.0\Projecto Farmacia.runtimeconfig.json
-C:\Users\maria\Desktop\Projecto Farmacia\bin\Debug\net6.0\Projecto Farmacia.dll
-C:\Users\maria\Desktop\Projecto Farmacia\bin\Debug\net6.0\Projecto Farmacia.pdb
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\Projecto Farmacia.csproj.AssemblyReference.cache
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\Projecto Farmacia.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\Projecto Farmacia.AssemblyInfoInputs.cache
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\Projecto Farmacia.AssemblyInfo.cs
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\Projecto Farmacia.csproj.CoreCompileInputs.cache
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\Projecto Farmacia.dll
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\refint\Projecto Farmacia.dll
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\Projecto Farmacia.pdb
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\Projecto Farmacia.genruntimeconfig.cache
-C:\Users\maria\Desktop\Projecto Farmacia\obj\Debug\net6.0\ref\Projecto Farmacia.dll
-C:\Users\maria\Desktop\ProjectoFarmacia\bin\Debug\net6.0\Projecto Farmacia.exe
-C:\Users\maria\Desktop\ProjectoFarmacia\bin\Debug\net6.0\Projecto Farmacia.deps.json
-C:\Users\maria\Desktop\ProjectoFarmacia\bin\Debug\net6.0\Projecto Farmacia.runtimeconfig.json
-C:\Users\maria\Desktop\ProjectoFarmacia\bin\Debug\net6.0\Projecto Farmacia.dll
-C:\Users\maria\Desktop\ProjectoFarmacia\bin\Debug\net6.0\Projecto Farmacia.pdb
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\Projecto Farmacia.csproj.AssemblyReference.cache
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\Projecto Farmacia.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\Projecto Farmacia.AssemblyInfoInputs.cache
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\Projecto Farmacia.AssemblyInfo.cs
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\Projecto Farmacia.csproj.CoreCompileInputs.cache
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\Projecto Farmacia.dll
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\refint\Projecto Farmacia.dll
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\Projecto Farmacia.pdb
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\Projecto Farmacia.genruntimeconfig.cache
-C:\Users\maria\Desktop\ProjectoFarmacia\obj\Debug\net6.0\ref\Projecto Farmacia.dll
+C:/Users/maria/Desktop/Projecto Farmacia/bin/Debug/net6.0/Projecto Farmacia.exe
+C:/Users/maria/Desktop/Projecto Farmacia/bin/Debug/net6.0/Projecto Farmacia.deps.json
+C:/Users/maria/Desktop/Projecto Farmacia/bin/Debug/net6.0/Projecto Farmacia.runtimeconfig.json
+C:/Users/maria/Desktop/Projecto Farmacia/bin/Debug/net6.0/Projecto Farmacia.dll
+C:/Users/maria/Desktop/Projecto Farmacia/bin/Debug/net6.0/Projecto Farmacia.pdb
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/Projecto Farmacia.csproj.AssemblyReference.cache
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/Projecto Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/Projecto Farmacia.AssemblyInfoInputs.cache
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/Projecto Farmacia.AssemblyInfo.cs
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/Projecto Farmacia.csproj.CoreCompileInputs.cache
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/Projecto Farmacia.dll
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/refint/Projecto Farmacia.dll
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/Projecto Farmacia.pdb
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/Projecto Farmacia.genruntimeconfig.cache
+C:/Users/maria/Desktop/Projecto Farmacia/obj/Debug/net6.0/ref/Projecto Farmacia.dll
+C:/Users/maria/Desktop/ProjectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.exe
+C:/Users/maria/Desktop/ProjectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.deps.json
+C:/Users/maria/Desktop/ProjectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.runtimeconfig.json
+C:/Users/maria/Desktop/ProjectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.dll
+C:/Users/maria/Desktop/ProjectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.pdb
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.csproj.AssemblyReference.cache
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.AssemblyInfoInputs.cache
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.AssemblyInfo.cs
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.csproj.CoreCompileInputs.cache
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.dll
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/refint/Projecto Farmacia.dll
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.pdb
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.genruntimeconfig.cache
+C:/Users/maria/Desktop/ProjectoFarmacia/obj/Debug/net6.0/ref/Projecto Farmacia.dll
+/home/cristina/Escritorio/ProyectoFarmacia/bin/Debug/net6.0/Projecto Farmacia
+/home/cristina/Escritorio/ProyectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.deps.json
+/home/cristina/Escritorio/ProyectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.runtimeconfig.json
+/home/cristina/Escritorio/ProyectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.dll
+/home/cristina/Escritorio/ProyectoFarmacia/bin/Debug/net6.0/ref/Projecto Farmacia.dll
+/home/cristina/Escritorio/ProyectoFarmacia/bin/Debug/net6.0/Projecto Farmacia.pdb
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.csproj.AssemblyReference.cache
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.AssemblyInfoInputs.cache
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.AssemblyInfo.cs
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.csproj.CoreCompileInputs.cache
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.dll
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/ref/Projecto Farmacia.dll
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.pdb
+/home/cristina/Escritorio/ProyectoFarmacia/obj/Debug/net6.0/Projecto Farmacia.genruntimeconfig.cache
