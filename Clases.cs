@@ -4,9 +4,9 @@ namespace ProjectoFarmacia
 {
     public class Farmacia
     {
-        Array[Empleado];
-        Array[Venta];
-        Array[Medicamento];
+        private List<Empleado> empleados;
+        private List<Venta> ventas;
+        private List<Medicamento> medicamento;
     }
 
     public class Venta{
@@ -14,13 +14,16 @@ namespace ProjectoFarmacia
         private int numTicket, codVendedor;
         private Medicamento medicamento;
 
-        public Venta(Medicamento medicamento, strig obraSocial, int numTicket, int codVendedor){
-
+        public Venta(Medicamento medicamento, string obraSocial, int numTicket, int codVendedor){
+            Medicamento = medicamento;
+            ObraSocial = obraSocial;
+            NumTicket = numTicket;
+            CodVendedor = codVendedor;
         }
-        public Medicamento medicamento{
+        public Medicamento Medicamento{
             get; set;
         }
-        public strig ObraSocial{
+        public string ObraSocial{
             get; set;
         }
         public int NumTicket{
@@ -60,7 +63,7 @@ namespace ProjectoFarmacia
         public Empleado(string nombre, string dni, int codVendedor, DateTime fechaNacimiento){
             Nombre = nombre;
             Dni = dni;
-            CodVendedor = codVendedor
+            CodVendedor = codVendedor;
             FechaNacimiento = fechaNacimiento;
         }
         public string Nombre{

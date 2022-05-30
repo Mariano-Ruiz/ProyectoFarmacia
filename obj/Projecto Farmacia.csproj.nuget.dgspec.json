@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/cristina/Escritorio/ProyectoFarmacia/Projecto Farmacia.csproj": {}
+    "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\Projecto Farmacia.csproj": {}
   },
   "projects": {
-    "/home/cristina/Escritorio/ProyectoFarmacia/Projecto Farmacia.csproj": {
+    "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\Projecto Farmacia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cristina/Escritorio/ProyectoFarmacia/Projecto Farmacia.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\Projecto Farmacia.csproj",
         "projectName": "Projecto Farmacia",
-        "projectPath": "/home/cristina/Escritorio/ProyectoFarmacia/Projecto Farmacia.csproj",
-        "packagesPath": "/home/cristina/.nuget/packages/",
-        "outputPath": "/home/cristina/Escritorio/ProyectoFarmacia/obj/",
+        "projectPath": "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\Projecto Farmacia.csproj",
+        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maria\\Desktop\\ProjectoFarmacia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/cristina/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -47,18 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.2, 6.0.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
