@@ -2,6 +2,7 @@ using System.Collections;
 
 namespace ProjectoFarmacia
 {
+    // Creeria que no voy a usar clase Farmacia(Mucho Quilombo[Creo])
     public class Farmacia
     {
         private List<Empleado> empleados;
@@ -32,7 +33,6 @@ namespace ProjectoFarmacia
         public int CodVendedor{
             get; set;
         }
-
     }
 
     public class Medicamento{
@@ -55,12 +55,12 @@ namespace ProjectoFarmacia
         }
     }
 
-    public class Empleado{
+        public class Empleado{
         private string nombre, dni;
         private int codVendedor;
         private DateTime fechaNacimiento;
 
-        public Empleado(string nombre, string dni, int codVendedor, DateTime fechaNacimiento){
+        public Empleado(string nombre, string dni, int codVendedor ,DateTime fechaNacimiento){
             Nombre = nombre;
             Dni = dni;
             CodVendedor = codVendedor;
