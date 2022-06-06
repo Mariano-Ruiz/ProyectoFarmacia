@@ -13,13 +13,15 @@ namespace ProjectoFarmacia
     public class Venta{
         private string obraSocial;
         private int numTicket, codVendedor;
+        private DateTime fechaYHora;
         private Medicamento medicamento;
 
-        public Venta(Medicamento medicamento, string obraSocial, int numTicket, int codVendedor){
+        public Venta(Medicamento medicamento, string obraSocial, int numTicket, int codVendedor, DateTime fechaHora){
             Medicamento = medicamento;
             ObraSocial = obraSocial;
             NumTicket = numTicket;
             CodVendedor = codVendedor;
+            FechaYHora = fechaHora;
         }
         public Medicamento Medicamento{
             get; set;
@@ -31,6 +33,9 @@ namespace ProjectoFarmacia
             get; set;
         }
         public int CodVendedor{
+            get; set;
+        }
+        public DateTime FechaYHora{
             get; set;
         }
     }
